@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-to-hubspot-api",
+  "version": "1.0.0",
+  "description": "API for LinkedIn to HubSpot Chrome extension",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vercel/node": "^2.15.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
